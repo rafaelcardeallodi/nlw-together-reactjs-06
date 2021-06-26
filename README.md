@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="letmeask" src=".github/app.png" width="100%">
+  <img alt="letmeask" src=".github/app.png" width="100%" style="border-radius: 8px;">
 </p>
 
 ## ✨ Tecnologias
