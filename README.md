@@ -25,16 +25,19 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
-- [Next.js](https://nextjs.org/)
+- [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Sass](https://sass-lang.com/)
 
 ## 💻 Projeto
 
-O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+O Letmeask é um plataforma para criadores de conteúdos poderem criar salas de perguntas e respostas com seu público durante uma transmissão, trazendo organização e interação.
+
+Este é um projeto desenvolvido durante a [Next Level Week Together](https://nextlevelweek.com/), apresentada dos dias 20 a 27 de Junho de 2021.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
 ## 🚀 Como executar
 
